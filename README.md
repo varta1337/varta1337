@@ -1,24 +1,3 @@
-<div align="center">
-<img src="images/mario.gif" alt="Opis zdjęcia" width="1012" height="auto">
-</div>
-
-# Hello, welcome to my profile! ✌️
-
-I'm a Frontend Developer from Poland 🇵🇱  
-
-With a love for clean design,  
-I craft minimalistic, user-friendly interfaces 💎
-
-I'm currently pursuing a Master's in Computer Science  
-at Technikum 19 Poznań🎓 and always excited to learn new skills 🛠️
-
-Outside of coding, I'm into music 🎶, pop culture 🎬, and cycling 🚴🏻‍♂️
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/jakub-rzepka/" target="_blank">
-    <img src="images/linkedin.gif" alt="LinkedIn" width="150">
-  </a>
-</div>
 
 <!--
 **varta1337/varta1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
